@@ -22,4 +22,10 @@ ST7 phenotype was observed to have a high copy number, and the same was true for
 
 Of the 145 MRLM, 20 known to harbour truncated gdpP genes had copy numbers of less than 6, except for the 3 MRLM of ST7 with higher copy numbers.
 
+###Discussion
+Most MRLM carry significant mutations in PBPs and gdpP genes, which are major drivers of beta-lactam resistance. 
+
+This indicates that borderline oxacillin-resistance in S. aureus is multifactorial and not solely due to blaZ gene amplification. 
+
+The observed low sensitivity and specificity, characterized by numerous false negatives and positives, indicate that blaZ copy number variation alone is not a dependable marker for identifying borderline oxacillin-resistant S. aureus.
 
