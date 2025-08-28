@@ -6,7 +6,7 @@ Staphylococcus aureus is a major global pathogen, with methicillin resistance po
 
 This study aims to develop and validate whole-genome sequence-based methods to identify BORSA, using copy number variation of the blaZ gene.
 
-We used the Control-freec4 algorithm for the detection of copy number in 145 known methicilin resistant lacking mec (MRLM) and 166 known MSSA, all with known mic values from studies1,2,3. As well in comparison to mutations of the MRLM in the gdpP and PBPs genes.
+We used the Control-freec4 (https://github.com/BoevaLab/FREEC) algorithm for the detection of copy number in 145 known methicilin resistant lacking mec (MRLM) and 166 known MSSA, all with known mic values from studies1,2,3. As well in comparison to mutations of the MRLM in the gdpP and PBPs genes.
 
 ### METHOD
 Quality check was used to sort the aligned files and to generate the depth of sequence. 
